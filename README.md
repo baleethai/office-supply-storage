@@ -1,1 +1,1 @@
-# Office Supply Storage (ระบบจัดการข้อมูลครุภัณฑ์)
+# Office Supplies Storage (ระบบจัดการข้อมูลครุภัณฑ์)
